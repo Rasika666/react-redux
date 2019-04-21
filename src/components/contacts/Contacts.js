@@ -28,8 +28,8 @@ class Contacts extends Component {
 }
 
 Contact.propTypes = {
-  contacts : PropTypes.array.isRequired,
-  getContacts : PropTypes.func.isRequired,
+  //contacts : PropTypes.array.isRequired,
+  //getContacts : PropTypes.func.isRequired,
 }
 /**
  * inside connect function we put 2 things
